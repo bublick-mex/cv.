@@ -140,7 +140,7 @@ const CV = () => {
               browse, filter, and sort a diverse range of products. With an intuitive 
               interface, it enhances shopping convenience, allowing customers to easily
                find exactly what they're looking for. </p>
-             <a className='name-link' href='https://github.com/bublick-mex/shop.git'>Link</a>
+             <a className='name-link' href='https://bublick-mex.github.io/shop/'>Link</a>
           </div>
           </div>
           <div className='blocks'>
