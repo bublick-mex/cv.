@@ -129,7 +129,7 @@ const CV = () => {
               that offers chocolate covered strawberries. The page 
               includes various sections such as company information,
               menu, promotions, testimonials and contact details.</p>
-             <a className='name-link' href='https://github.com/bublick-mex/lending.git'>Link</a>
+             <a className='name-link' href='https://bublick-mex.github.io/lending/'>Link</a>
           </div>
           </div>
           <div className='blocks'>
