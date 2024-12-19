@@ -153,7 +153,7 @@ const CV = () => {
               interface that invites players to test their deductive 
               skills while enjoying the challenge of guessing the
               correct combination.</p>
-             <a className='name-link' href='https://github.com/bublick-mex/bulls-and-cows.git'>Link</a>
+             <a className='name-link' href='https://bublick-mex.github.io/bulls-and-cows/'>Link</a>
           </div>
           </div>
         </div>
