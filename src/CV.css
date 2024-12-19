@@ -329,11 +329,12 @@
       .blocks{
         border: 0.2em solid #6666ffb9; 
         border-radius: 2%;
-        width: 22em;
+        width: 20em;
         height: 34.5em;
         display: flex;
         justify-content: center;
         flex-direction: column;
+        padding-left: 0.1em;
         padding-bottom: 1em;
       }
     
