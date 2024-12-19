@@ -118,7 +118,7 @@ const CV = () => {
             <p className='discr'>The Todo List management application. It allows users to
              to add, delete, and mark tasks as completed, as well as to filter and search for 
              tasks based on various criteria.</p>
-             <a className='name-link' href='https://github.com/bublick-mex/todo-list.git'>Link</a>
+             <a className='name-link' href='https://bublick-mex.github.io/todo-list/'>Link</a>
             </div>
           </div>
           <div className='blocks'>
