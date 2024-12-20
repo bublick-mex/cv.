@@ -343,6 +343,7 @@
         height: 14em;
         border-radius: 2%;
         padding: 1em;
+        flex-wrap: wrap;
       }
       
       .end-soc{
