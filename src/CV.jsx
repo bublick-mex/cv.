@@ -32,7 +32,7 @@ const CV = () => {
           <a className='soc-href' href='https://t.me/lavranasi'>@lavranasi</a>
           <a className='soc-href' href='mailto:lavrinovichnastia@gmail.com'>lavrinovichnastia@gmail.com</a>
           <a className='soc-href' href='https://github.com/bublick-mex'>bublick-mex</a>
-          <a>Belarus</a>
+          <a className='bel-font'>Belarus</a>
           </div>
         </div>
       </header>
@@ -189,7 +189,7 @@ const CV = () => {
           </div>
           <div className='for-row'>
           <img className='soc-img' src="pict/map.png"></img>   
-          <a>Belarus</a>
+          <a className='bel-font'>Belarus</a>
          </div>
         </div>
       </div>
