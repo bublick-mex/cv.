@@ -327,7 +327,7 @@ header{
       padding: 0 0.6em 0.6em 0.6em;
       border-radius: 7%;
       flex: 1 1 25%; 
-      max-width: 34%; 
+      max-width: 44%; 
       height: auto;
       flex-wrap: wrap;
     }
@@ -357,7 +357,7 @@ header{
     .blocks{
       border: 0.2em solid #6666ffb9; 
       border-radius: 2%;
-      width: 55%;
+      width: 70%;
       height: auto;
       display: flex;
       justify-content: center;
@@ -387,10 +387,12 @@ header{
     
     .end-soc{
       flex-direction: column;
-      gap: 0;
+      gap: 0em;
     }
   
     .first-col{
-      padding: 0.3em;
+      flex-direction: column;
+      gap: 1em;
+      padding: 0.6em;
     }
   }
