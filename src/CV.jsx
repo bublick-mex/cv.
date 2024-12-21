@@ -118,7 +118,10 @@ const CV = () => {
             <p className='discr'>The Todo List management application. It allows users to
              to add, delete, and mark tasks as completed, as well as to filter and search for 
              tasks based on various criteria.</p>
-             <a className='name-link' href='https://bublick-mex.github.io/todo-list/'>Link</a>
+             <div className='link-row'>
+             <a className='name-link' href='https://github.com/bublick-mex/todo-list.git'>Link to Git</a>
+             <a className='name-link' href='https://bublick-mex.github.io/todo-list/'>Open</a>
+             </div>
             </div>
           </div>
           <div className='blocks'>
@@ -129,7 +132,10 @@ const CV = () => {
               that offers chocolate covered strawberries. The page 
               includes various sections such as company information,
               menu, promotions, testimonials and contact details.</p>
-             <a className='name-link' href='https://bublick-mex.github.io/lending/'>Link</a>
+              <div className='link-row'>
+              <a className='name-link' href='https://github.com/bublick-mex/lending.git'>Link to Git</a>
+             <a className='name-link' href='https://bublick-mex.github.io/lending/'>Open</a>
+             </div>
           </div>
           </div>
           <div className='blocks'>
@@ -140,7 +146,10 @@ const CV = () => {
               browse, filter, and sort a diverse range of products. With an intuitive 
               interface, it enhances shopping convenience, allowing customers to easily
                find exactly what they're looking for. </p>
-             <a className='name-link' href='https://bublick-mex.github.io/shop/'>Link</a>
+               <div className='link-row'>
+              <a className='name-link' href='https://github.com/bublick-mex/shop.git'>Link to Git</a>
+             <a className='name-link' href='https://bublick-mex.github.io/shop/'>Open</a>
+             </div>
           </div>
           </div>
           <div className='blocks'>
@@ -153,7 +162,10 @@ const CV = () => {
               interface that invites players to test their deductive 
               skills while enjoying the challenge of guessing the
               correct combination.</p>
-             <a className='name-link' href='https://bublick-mex.github.io/bulls-and-cows/'>Link</a>
+              <div className='link-row'>
+              <a className='name-link' href='https://github.com/bublick-mex/bulls-and-cows.git'>Link to Git</a>
+             <a className='name-link' href='https://bublick-mex.github.io/bulls-and-cows/'>Open</a>
+             </div>
           </div>
           </div>
         </div>
