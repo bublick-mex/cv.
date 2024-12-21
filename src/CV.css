@@ -45,7 +45,7 @@ header{
 }
 
 .soc-href{
-  font-size: 1em;
+  font-size: 1.2em;
   text-decoration: none;
   color: black;
 }
@@ -55,9 +55,13 @@ header{
   color:#6666FF;
 }
 
+.bel-font{
+  font-size: 1.2em;
+}
+
 .soc-img{
-  width: 1.4em;
-  height: 1.4em;
+  width: 1.6em;
+  height: 1.6em;
   display: flex;
   flex-direction: column;
   gap: 0.7em;
@@ -259,14 +263,14 @@ header{
 .first-col{
   display: flex;
   flex-direction: row;
-  gap: 4em;
+  gap: 3em;
   padding: 1.3em;
 }
 
 .end-soc{
   display: flex;
   flex-direction: row;
-  gap: 2em;
+  gap: 1em;
 }
 
 @media screen and (max-width: 58em) {
@@ -300,7 +304,6 @@ header{
       text-wrap: wrap;
       width: 90%;
       word-wrap: break-word;
-      padding: 1em;
       margin: 0;
     }
   
@@ -327,7 +330,7 @@ header{
       padding: 0 0.6em 0.6em 0.6em;
       border-radius: 7%;
       flex: 1 1 25%; 
-      max-width: 44%; 
+      max-width: 50%; 
       height: auto;
       flex-wrap: wrap;
     }
@@ -357,7 +360,7 @@ header{
     .blocks{
       border: 0.2em solid #6666ffb9; 
       border-radius: 2%;
-      width: 70%;
+      width: 95%;
       height: auto;
       display: flex;
       justify-content: center;
