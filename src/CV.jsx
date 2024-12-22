@@ -122,6 +122,11 @@ const CV = () => {
              <a className='name-link' href='https://github.com/bublick-mex/todo-list.git'>Link to Git</a>
              <a className='name-link' href='https://bublick-mex.github.io/todo-list/'>Open</a>
              </div>
+             <div className='tools'>
+             <button className='point'>React</button>
+             <button className='point'>CSS</button>
+             <button className='point'>HTML</button>
+             </div>
             </div>
           </div>
           <div className='blocks'>
@@ -136,6 +141,10 @@ const CV = () => {
               <a className='name-link' href='https://github.com/bublick-mex/lending.git'>Link to Git</a>
              <a className='name-link' href='https://bublick-mex.github.io/lending/'>Open</a>
              </div>
+             <div className='tools'>
+             <button className='point'>CSS</button>
+             <button className='point'>HTML</button>
+             </div>
           </div>
           </div>
           <div className='blocks'>
@@ -149,6 +158,11 @@ const CV = () => {
                <div className='link-row'>
               <a className='name-link' href='https://github.com/bublick-mex/shop.git'>Link to Git</a>
              <a className='name-link' href='https://bublick-mex.github.io/shop/'>Open</a>
+             </div>
+             <div className='tools'>
+             <button className='point'>React</button>
+             <button className='point'>CSS</button>
+             <button className='point'>HTML</button>
              </div>
           </div>
           </div>
@@ -165,6 +179,11 @@ const CV = () => {
               <div className='link-row'>
               <a className='name-link' href='https://github.com/bublick-mex/bulls-and-cows.git'>Link to Git</a>
              <a className='name-link' href='https://bublick-mex.github.io/bulls-and-cows/'>Open</a>
+             </div>
+             <div className='tools'>
+             <button className='point'>JS</button>
+             <button className='point'>CSS</button>
+             <button className='point'>HTML</button>
              </div>
           </div>
           </div>
