@@ -35,7 +35,6 @@ header{
   flex-direction: row;
   gap: 0.8em;
   padding-top: 2em;
-  padding-right: 3em;
 }
 
 .soc-href-place{
@@ -56,7 +55,7 @@ header{
 }
 
 .bel-font{
-  font-size: 1.2em;
+  font-size: 1.25em;
 }
 
 .soc-img{
@@ -110,7 +109,7 @@ header{
 }
 
 .skils{    
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
   padding: 0 0.7em 0.7em 0.7em;
   border: 0.3em solid #6666ff9b; 
   border-radius: 7%;
@@ -135,7 +134,7 @@ header{
 
 .lang{
   line-height: 1.7em;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .education-full{
@@ -151,18 +150,18 @@ header{
 .education1{
   padding-left: 2.2em;
   line-height: 1.4em;
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #434343;
 }
 
 .work1{
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .work{
   padding-left: 0em;
   line-height: 1.7em;
-  font-size: 1.2em;
+  font-size: 1.1em;
   padding-bottom: 0.5em;
 }
 
@@ -173,6 +172,7 @@ header{
 }
 
 .print{
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
   width: 6em;
   padding: 0.6em;
   background:#6666ffb9; 
@@ -202,6 +202,7 @@ header{
 }
 
 .blocks{
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
   border: 0.2em solid #6666ffb9; 
   border-radius: 2%;
   width: 55em;
@@ -252,6 +253,24 @@ header{
 
 .name-link:hover{
   color: #282891;
+}
+
+.tools{
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  padding-bottom: 0.6em;
+}
+
+.point{
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
+  width: 4em;
+  padding: 0.6em;
+  background:#6666ffb9; 
+  color:#ffffff;
+  font-size: 1.1em;
+  border-radius: 15%;
+  border: 0em;
 }
 
 .for-row{
@@ -386,6 +405,10 @@ header{
     .link-row{
       padding-left: 1em;
       padding-right: 1em;
+    }
+
+    .tools{
+      padding: 0.2em;
     }
     
     .end-soc{
