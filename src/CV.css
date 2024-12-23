@@ -95,41 +95,34 @@ header{
   line-height: 3em;
 }
 
-.bloc-row{
+.butm{
+  word-wrap: break-word;
+  flex-wrap: wrap;
   display: flex;
   flex-direction: row;
-  gap: 2em;
-  padding: 0.2em;
+  gap: 1em;
 }
 
-.skil-ul{
-  font-size: 1.2em;
-  padding-left: 2em;
-  margin-top: 0.2em;
-}
-
-.skils{    
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
-  padding: 0 0.7em 0.7em 0.7em;
-  border: 0.3em solid #6666ff9b; 
-  border-radius: 7%;
-  width: 15em;
+.skils{
   display: flex;
   flex-direction: column;
-  flex: 1 1 25%; 
-  max-width: 34%; 
-  height: auto;
+  gap: 0.3em;
 }
 
 .point-skils{
-  font-size:1.6em;
+  font-size: 1.2em;
   font-weight: bold;
-  margin: 0.8em 0 0 0.1em;
-  color: #6666ff;
 }
 
 .skil{
-  font-size: 1.2em;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
+  padding: 0.5em;
+  background:#6666ff93; 
+  color:#ffffff;
+  font-size: 1.1em;
+  cursor: 'default';
+  border-radius: 15%;
+  border: 0em;
 }
 
 .lang{
@@ -266,7 +259,7 @@ header{
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.767);
   width: 4em;
   padding: 0.6em;
-  background:#6666ffb9; 
+  background:#6666ff93; 
   color:#ffffff;
   font-size: 1.1em;
   border-radius: 15%;
@@ -324,34 +317,6 @@ header{
       width: 90%;
       word-wrap: break-word;
       margin: 0;
-    }
-  
-    .bloc-row{
-      display: flex;
-      flex-direction: column;
-      gap: 2em;
-      padding: 0.2em;
-    }
-
-    .skil-ul{
-      font-size: 1em;
-      padding-left: 2em;
-      margin-top: 0.2em;
-    }
-
-    .point-skils{
-      font-size:1.5em;
-      margin: 0.4em 0 0 0.1em;
-    }
-    
-    .skils{    
-      word-wrap: break-word; 
-      padding: 0 0.6em 0.6em 0.6em;
-      border-radius: 7%;
-      flex: 1 1 25%; 
-      max-width: 50%; 
-      height: auto;
-      flex-wrap: wrap;
     }
   
     .education1{
