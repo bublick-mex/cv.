@@ -76,7 +76,6 @@ const CV = () => {
         <button className='skil'>VS Code</button>
         <button className='skil'>Figma</button>
         <button className='skil'>Adobe Photoshop</button>
-        <button className='skil'>Node.js</button>
         </div>
         </div>
       </section>
