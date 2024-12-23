@@ -48,37 +48,35 @@ const CV = () => {
       <hr></hr>
       <section className='skils-full'>
         <h2 className='name-part'>Skils</h2>
-        <div className='bloc-row'>
         <div className='skils'>
-          <p className='point-skils'>
-            Languges
-          </p>
-          <ul className='skil-ul'>
-        <li className='skil'>HTML</li>
-        <li className='skil'>CSS</li>
-        <li className='skil'>Java Script</li>
-        <li className='skil'>SQL</li>
-        </ul>
+          <li className='point-skils'>
+            languges
+          </li>
+        <div className='butm'>
+        <button className='skil'>HTML</button>
+        <button className='skil'>CSS</button>
+        <button className='skil'>Java Script</button>
+        <button className='skil'>SQL</button>
+        </div>
         </div>
         <div className='skils'>
-          <p className='point-skils'>
-          Technologies
-          </p>
-          <ul className='skil-ul'>
-        <li className='skil'>Tilda</li>
-        <li className='skil'>React</li>
-        <li className='skil'>Tailwin CSS</li>  
-        </ul>    
+          <li className='point-skils'>
+          technologies
+          </li>
+        <div className='butm'>
+        <button className='skil'>Tilda</button>
+        <button className='skil'>React</button>
+        <button className='skil'>Tailwin CSS</button>        </div>
         </div>
         <div className='skils'>
-          <p className='point-skils'>
-          Tools
-          </p>
-          <ul className='skil-ul'>
-        <li className='skil'>VS Code</li>
-        <li className='skil'>Figma</li>
-        <li className='skil'>Adobe Photoshop</li>
-        </ul>
+          <li className='point-skils'>
+          tools
+          </li>
+        <div className='butm'>
+        <button className='skil'>VS Code</button>
+        <button className='skil'>Figma</button>
+        <button className='skil'>Adobe Photoshop</button>
+        <button className='skil'>Node.js</button>
         </div>
         </div>
       </section>
